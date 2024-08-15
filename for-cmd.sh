@@ -9,4 +9,4 @@ powershell -Command "Set-ExecutionPolicy Bypass"
 powershell -Command "Get-WindowsAutoPilotInfo.ps1 -OutputFile C:\Device-info.csv"
 
 :: Launch Microsoft Edge
-start msedge
+start msedge "https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/AutopilotDevices.ReactView/filterOnManualRemediationRequired~/false"
