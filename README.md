@@ -1,2 +1,2 @@
-# add-to-autopilot
-Script for adding Windows to Autopilot
+# Add To Autopilot
+Scripts for adding Windows to Autopilot
