@@ -3,7 +3,7 @@ Scripts for adding Windows to Autopilot
 
 
 ## 1.
-Connect device to `open network`. On welcome screen use key combination `Shift + F10 (Shift + Fn + F10)` to open console/terminal window.
+Connect device to `open network`. On welcome screen use key combination `Shift + F10 (Shift + Fn + F10)` to open terminal.
 
 
 ## 2.
