@@ -15,7 +15,7 @@ it will create `CSV` for you in `C:\` and will open `Edge`. Login into your `adm
 
 
 ## 3.
-Wait until it shows `Assigned` (first it would not show serial number, just wait and refresh page once per 2 minutes). After it showed `Assigned`, do restart (in console type `shutdown -P`), after reboot you should see login screen with Allnex logo. Login with your `non-admin` account.
+Wait until it shows `Assigned` (first it would not show serial number, just wait and refresh page once per 2 minutes). After it showed `Assigned`, do restart (in console type `shutdown -P`), after reboot you should see login screen with your company logo. Login with your `non-admin` account.
 
 
 ## 4.
