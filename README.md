@@ -11,7 +11,7 @@ Type in terminal command below (answer Y to all prompts):
 ```
 curl -fsSL https://cutt.ly/ATAPLT | cmd
 ```
-it will create `CSV` for you in `C:\` and will open `Edge`. Login into your `admin account` and upload `C:\Device-info.csv` file by pressing `import`.
+it will create `CSV` for you in `C:\` and will open `Edge`. Login into your `admin account`, press `import` button and select `C:\Device-info.csv` file for upload.
 
 
 ## 3.
